@@ -1,0 +1,1 @@
+1) Rodar com node index.js
